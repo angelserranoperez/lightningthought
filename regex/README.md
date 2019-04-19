@@ -8,5 +8,5 @@
 **[ipaddress.js](ipaddress.js) =>**
 how to know if an ip address is correct or not
 
-**trimming.js =>**
+**[trimming.js](trimming.js) =>**
 how to trim the spaces in the beginning and in the end of a list using regular expressions in javascript.
