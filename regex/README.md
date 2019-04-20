@@ -10,3 +10,10 @@ how to know if an ip address is correct or not
 
 **[trimming.js](trimming.js) =>**
 how to trim the spaces in the beginning and in the end of a list using regular expressions in javascript.
+
+**[thousandseparator.js](thousandseparator.js) =>**
+how to get the thousands separators in a number using clock arithmetic and regular expressions
+
+**[thousandseparator2.js](thousandseparator2.js) =>**
+how to get the thousands separators in a number using look ahead in regular expressions
+
