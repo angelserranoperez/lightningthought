@@ -18,10 +18,10 @@ how to get the thousands separators in a number using clock arithmetic and regul
 how to get the thousands separators in a number using look ahead in regular expressions
 
 **[password1.js](password1.js) =>**
-how to check if a password has at least 8 word charaters with 1 capital letter and 2 consecutives numbers with frequency counter strategy and regular expressions.
+how to check if a password has at least 8 worsd characters with 1 capital letter and 2 consecutives numbers with frequency counter strategy and regular expressions.
 
 **[password2.js](password2.js) =>**
-how to check if a password has at least 8 word charaters with 1 capital letter and 2 consecutives numbers with 3 look aheads in a regular expression.
+how to check if a password has at least 8 words characters with 1 capital letter and 2 consecutives numbers with 3 look aheads in a regular expression.
 
 **[checkforerrors.js](checkforerrors.js) =>**
 Get a list with all the words repeated twice with a space between with regular expressions.
