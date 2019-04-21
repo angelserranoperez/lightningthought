@@ -1,5 +1,5 @@
 # **LightningThought Lodash List**
->https://www.youtube.com/playlist?list=PLwLpi29ckCiILS1DADcj0cz139QLGxbIX
+>https://www.youtube.com/playlist?list=PLwLpi29ckCiIBqRIrgRH8SRUg6SiCqGJO
 # 
 # **Index**
 
