@@ -22,3 +22,8 @@ how to check if a password has at least 8 word charaters with 1 capital letter a
 
 **[password2.js](password2.js) =>**
 how to check if a password has at least 8 word charaters with 1 capital letter and 2 consecutives numbers with 3 look aheads in a regular expression.
+
+**[checkforerrors.js](checkforerrors.js) =>**
+Get a list with all the words repeated twice with a space between with regular expressions.
+
+
